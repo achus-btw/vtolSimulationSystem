@@ -1,12 +1,17 @@
-# Vtol Simulation System
+# VTOL Simulation System
+
 ---
-<h3>This a repo meant for the members of aerocet<br> donot commit if not authorised</h3>
-<h2>Code Styling:</h2>
- - always use camelCase for variables
- - modular code is preffered
- - use folders to seperate and categorize different file as per your judgement
-<h2>Comments and Explenations:</h2>
- - add a brief summary for the purpouse of file at the top
- - add a small description on the top of every function(unless its self explanatory)
- - for the love of god please donot use emojis
- 
+
+> **Restricted:** This repo is meant for members of Aerocet only. Do not commit if you are not authorised.
+
+## Code Styling
+
+- Always use camelCase for variables
+- Modular code is preferred
+- Use folders to separate and categorize different files as per your judgement
+
+## Comments and Explanations
+
+- Add a brief summary of the purpose of the file at the top
+- Add a short description above every function (unless it is self-explanatory)
+- For the love of god do not use emojis
